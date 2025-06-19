@@ -33,7 +33,7 @@ st.markdown(
     }
     .title-box h1 {
         margin-bottom: 0.5rem;
-        font-size: 2.0rem;  /* 메인 제목 크기 */
+        font-size: 1.7rem;  /* 메인 제목 크기 */
     }
 
    
